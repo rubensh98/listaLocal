@@ -1,9 +1,9 @@
 ## PILLAR LOCAL
 
-- Ruben
-- Carlos
-- Ivan
-- Gabi
-- Cano
-- Zurita
-- System.out.println("Rubén cómeme los cojines")
+1. Ruben
+2. Carlos
+3. Ivan
+4. Gabi
+5. Cano
+6. Zurita
+7. System.out.println("Rubén cómeme los cojines")
